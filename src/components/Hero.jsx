@@ -9,7 +9,7 @@ function Hero() {
       {/* Badge */}
       <div className="inline-flex items-center space-x-2 bg-emerald-950/60 border border-emerald-800/50 text-emerald-400 text-xs px-3.5 py-1.5 rounded-full mb-8 font-mono">
         <Sparkles size={14} className="animate-pulse" />
-        <span>Frontend Web Developer</span>
+        <span>Frontend Web Developer x AI Integration</span>
       </div>
 
       {/* Main Headline */}
@@ -19,7 +19,7 @@ function Hero() {
 
       {/* Subtitle */}
       <p className="text-slate-400 text-base sm:text-lg max-w-2xl mb-10 leading-relaxed">
-        Frontend Engineer specializing in React, Tailwind CSS, JavaScript, and responsive layout architecture.
+        Frontend Engineer specializing in React, Tailwind CSS, JavaScript, responsive layout architecture, and AI-powered web integrations.
       </p>
 
       {/* Action Buttons */}
