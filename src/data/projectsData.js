@@ -6,11 +6,10 @@ const projects = [
     description:
       "Interactive inventory and distribution dashboard for monitoring product stock, recording sales and restocks, filtering inventory, and viewing business insights.",
     techStack: ["React", "JavaScript", "CSS3", "Recharts", "Vite"],
-    liveUrl: "https://nb-intelligence-dashboard.vercel.app",
+    liveUrl: "https://nb-intelligence-dashboard.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/nb-intelligence-dashboard",
     featured: true,
   },
-
   {
     id: 2,
     title: "HomeFinder",
@@ -18,11 +17,10 @@ const projects = [
     description:
       "Modern real estate application featuring dynamic property search, interactive filters, and responsive property listing views.",
     techStack: ["React", "Tailwind CSS", "Vite"],
-    liveUrl: "https://homefinder.vercel.app",
+    liveUrl: "https://home-finder-murex.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/HomeFinder",
     featured: true,
   },
-
   {
     id: 3,
     title: "Su's Laundry",
@@ -30,11 +28,10 @@ const projects = [
     description:
       "Responsive laundry service platform featuring service listings, pricing information, interactive components, and a mobile-friendly interface.",
     techStack: ["React", "Tailwind CSS", "Vite"],
-    liveUrl: "https://sus-laundry.vercel.app",
+    liveUrl: "https://su-s-laundry.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/su-s-laundry",
     featured: true,
   },
-
   {
     id: 4,
     title: "BuildForge",
@@ -42,11 +39,10 @@ const projects = [
     description:
       "Multi-page construction and architecture website showcasing company services, project portfolios, responsive layouts, and project galleries.",
     techStack: ["JavaScript", "HTML5", "CSS3"],
-    liveUrl: "https://buildforge.vercel.app",
+    liveUrl: "https://buildforgeproject.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/Buildforgeproject",
     featured: true,
   },
-
   {
     id: 5,
     title: "Meme's Small Chops",
@@ -54,11 +50,10 @@ const projects = [
     description:
       "Interactive catering website featuring menu sections, service information, order inquiries, contact forms, and responsive layouts.",
     techStack: ["HTML5", "CSS3", "Bootstrap"],
-    liveUrl: "https://memessmallchop.vercel.app",
+    liveUrl: "https://memesmallchops.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/memesmall_chops",
     featured: true,
   },
-
   {
     id: 6,
     title: "Pinnacle Estates",
@@ -66,11 +61,10 @@ const projects = [
     description:
       "Real estate agency website featuring property listings, agent information, property detail pages, navigation, and responsive layouts.",
     techStack: ["Bootstrap", "JavaScript", "HTML5"],
-    liveUrl: "",
+    liveUrl: "#",
     githubUrl: "https://github.com/Obehi123-beep/Pinacle_estate",
     featured: false,
   },
-
   {
     id: 7,
     title: "Travel Ease",
@@ -78,11 +72,10 @@ const projects = [
     description:
       "Visa and travel services platform designed to present application information, travel services, requirements, and client support resources.",
     techStack: ["HTML5", "CSS3", "Bootstrap"],
-    liveUrl: "https://travelease.vercel.app",
+    liveUrl: "#",
     githubUrl: "https://github.com/Obehi123-beep/Travel_ease",
     featured: false,
   },
-
   {
     id: 8,
     title: "Obehii Energy",
@@ -90,11 +83,10 @@ const projects = [
     description:
       "Responsive corporate website for an energy company showcasing service offerings, industry solutions, company information, and statistics.",
     techStack: ["HTML5", "CSS3", "Bootstrap"],
-    liveUrl: "https://obehiienergy.vercel.app",
+    liveUrl: "#",
     githubUrl: "https://github.com/Obehi123-beep/Obehi_energy",
     featured: false,
   },
-
   {
     id: 9,
     title: "Angel Mira Consult",
@@ -102,11 +94,10 @@ const projects = [
     description:
       "Responsive logistics website featuring shipment-related services, company information, service sections, and responsive layouts.",
     techStack: ["Bootstrap", "HTML5", "CSS3"],
-    liveUrl: "https://angelmiraconsult.vercel.app",
+    liveUrl: "https://angelmira.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/angel_mira",
     featured: false,
   },
-
   {
     id: 10,
     title: "Piano Project",
@@ -118,7 +109,6 @@ const projects = [
     githubUrl: "https://github.com/Obehi123-beep/Piano_project",
     featured: false,
   },
-
   {
     id: 11,
     title: "Digital Clock",
