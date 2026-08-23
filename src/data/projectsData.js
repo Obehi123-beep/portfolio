@@ -1,107 +1,135 @@
-// src/data/projectsData.js
-
 const projects = [
   {
     id: 1,
+    title: "NB Intelligence Dashboard",
+    category: "React Dashboard",
+    description:
+      "Interactive inventory and distribution dashboard for monitoring product stock, recording sales and restocks, filtering inventory, and viewing business insights.",
+    techStack: ["React", "JavaScript", "CSS3", "Recharts", "Vite"],
+    liveUrl: "https://nb-intelligence-dashboard.vercel.app",
+    githubUrl: "https://github.com/Obehi123-beep/nb-intelligence-dashboard",
+    featured: true,
+  },
+
+  {
+    id: 2,
     title: "HomeFinder",
     category: "React App",
-    description: "Modern real estate application featuring dynamic property search, interactive filters, and responsive listing views.",
+    description:
+      "Modern real estate application featuring dynamic property search, interactive filters, and responsive property listing views.",
     techStack: ["React", "Tailwind CSS", "Vite"],
-    liveUrl: "https://homefinder.vercel.app", 
+    liveUrl: "https://homefinder.vercel.app",
     githubUrl: "https://github.com/Obehi123-beep/HomeFinder",
     featured: true,
   },
+
   {
-    id: 2,
+    id: 3,
     title: "Su's Laundry",
     category: "React App",
-    description: "Responsive dry-cleaning and laundry service platform built with modern UI components and service pricing structures.",
+    description:
+      "Responsive laundry service platform featuring service listings, pricing information, interactive components, and a mobile-friendly interface.",
     techStack: ["React", "Tailwind CSS", "Vite"],
-    liveUrl: "https://sus-laundry.vercel.app", 
+    liveUrl: "https://sus-laundry.vercel.app",
     githubUrl: "https://github.com/Obehi123-beep/su-s-laundry",
     featured: true,
   },
+
   {
-    id: 3,
+    id: 4,
     title: "BuildForge",
     category: "Web Application",
-    description: "Multi-page construction and architecture site showcasing service portfolios, dynamic layouts, and project galleries.",
+    description:
+      "Multi-page construction and architecture website showcasing company services, project portfolios, responsive layouts, and project galleries.",
     techStack: ["JavaScript", "HTML5", "CSS3"],
-    liveUrl: "https://buildforge.vercel.app", 
+    liveUrl: "https://buildforge.vercel.app",
     githubUrl: "https://github.com/Obehi123-beep/Buildforgeproject",
     featured: true,
   },
-  {
-    id: 4,
-    title: "Pinnacle Estates",
-    category: "Web Application",
-    description: "Full-scale real estate agency site with featured property listings, agents directory, and interactive sliders.",
-    techStack: ["Bootstrap", "JavaScript", "HTML5"],
-    liveUrl: "https://pinacle-estate-v3.vercel.app",
-    githubUrl: "https://github.com/Obehi123-beep/Pinacle_estate",
-    featured: true,
-  },
+
   {
     id: 5,
     title: "Meme's Small Chops",
     category: "Web Application",
-    description: "Interactive catering and food ordering website featuring custom menu layouts, order inquiries, and contact forms.",
+    description:
+      "Interactive catering website featuring menu sections, service information, order inquiries, contact forms, and responsive layouts.",
     techStack: ["HTML5", "CSS3", "Bootstrap"],
-    liveUrl: "https://memessmallchop.vercel.app", 
+    liveUrl: "https://memessmallchop.vercel.app",
     githubUrl: "https://github.com/Obehi123-beep/memesmall_chops",
     featured: true,
   },
+
   {
     id: 6,
+    title: "Pinnacle Estates",
+    category: "Web Application",
+    description:
+      "Real estate agency website featuring property listings, agent information, property detail pages, navigation, and responsive layouts.",
+    techStack: ["Bootstrap", "JavaScript", "HTML5"],
+    liveUrl: "",
+    githubUrl: "https://github.com/Obehi123-beep/Pinacle_estate",
+    featured: false,
+  },
+
+  {
+    id: 7,
     title: "Travel Ease",
     category: "Web Application",
-    description: "Visa and travel services platform designed to help clients navigate application workflows and travel requirements.",
+    description:
+      "Visa and travel services platform designed to present application information, travel services, requirements, and client support resources.",
     techStack: ["HTML5", "CSS3", "Bootstrap"],
-    liveUrl: "https://travelease.vercel.app", 
+    liveUrl: "https://travelease.vercel.app",
     githubUrl: "https://github.com/Obehi123-beep/Travel_ease",
     featured: false,
   },
+
   {
-    id: 7,
+    id: 8,
     title: "Obehii Energy",
     category: "Web Application",
-    description: "Responsive corporate website for an energy company showcasing service offerings, industry solutions, and company stats.",
+    description:
+      "Responsive corporate website for an energy company showcasing service offerings, industry solutions, company information, and statistics.",
     techStack: ["HTML5", "CSS3", "Bootstrap"],
-    liveUrl: "https://obehiienergy.vercel.app", 
+    liveUrl: "https://obehiienergy.vercel.app",
     githubUrl: "https://github.com/Obehi123-beep/Obehi_energy",
     featured: false,
   },
+
   {
-    id: 8,
+    id: 9,
     title: "Angel Mira Consult",
     category: "Web Application",
-    description: "Responsive logistics management platform equipped with shipment tracking interfaces and service offerings.",
+    description:
+      "Responsive logistics website featuring shipment-related services, company information, service sections, and responsive layouts.",
     techStack: ["Bootstrap", "HTML5", "CSS3"],
-    liveUrl: "https://angelmiraconsult.vercel.app", 
+    liveUrl: "https://angelmiraconsult.vercel.app",
     githubUrl: "https://github.com/Obehi123-beep/angel_mira",
     featured: false,
   },
+
   {
-    id: 9,
+    id: 10,
     title: "Piano Project",
     category: "Interactive App",
-    description: "Interactive browser-based musical instrument that plays sound audio notes upon key press and click events.",
+    description:
+      "Interactive browser-based piano application that responds to keyboard and click events to produce musical notes.",
     techStack: ["JavaScript", "HTML5", "CSS3"],
-    liveUrl: "", 
+    liveUrl: "https://pianoproject-pi.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/Piano_project",
     featured: false,
   },
+
   {
-    id: 10,
+    id: 11,
     title: "Digital Clock",
     category: "JavaScript App",
-    description: "Real-time digital clock application built to display live local system time and date updates.",
+    description:
+      "Real-time digital clock application displaying the current local time and date using JavaScript.",
     techStack: ["JavaScript", "HTML5", "CSS3"],
-    liveUrl: "", 
+    liveUrl: "https://digitalclock-sandy.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/Digital_clock",
     featured: false,
-  }
+  },
 ];
 
-// Exported cleanly at the bottom
 export default projects;
