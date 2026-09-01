@@ -12,17 +12,6 @@ const projects = [
   },
   {
     id: 2,
-    title: "HomeFinder",
-    category: "React App",
-    description:
-      "Modern real estate application featuring dynamic property search, interactive filters, and responsive property listing views.",
-    techStack: ["React", "Tailwind CSS", "Vite"],
-    liveUrl: "https://home-finder-murex.vercel.app/",
-    githubUrl: "https://github.com/Obehi123-beep/HomeFinder",
-    featured: true,
-  },
-  {
-    id: 3,
     title: "Su's Laundry",
     category: "React App",
     description:
@@ -33,7 +22,29 @@ const projects = [
     featured: true,
   },
   {
+    id: 3,
+    title: "HomeFinder",
+    category: "React App",
+    description:
+      "Modern real estate application featuring dynamic property search, interactive filters, and responsive property listing views.",
+    techStack: ["React", "Tailwind CSS", "Vite"],
+    liveUrl: "https://home-finder-murex.vercel.app/",
+    githubUrl: "https://github.com/Obehi123-beep/HomeFinder",
+    featured: true,
+  },
+  {
     id: 4,
+    title: "Currency & Crypto Converter",
+    category: "React App",
+    description:
+      "Multi-currency and cryptocurrency conversion application built with React, Vite, and external API data fetching.",
+    techStack: ["React", "JavaScript", "Vite", "CSS"],
+    liveUrl: "https://crypto-currency-converter-theta.vercel.app/",
+    githubUrl: "https://github.com/Obehi123-beep/crypto-currency-converter",
+    featured: true,
+  },
+  {
+    id: 5,
     title: "BuildForge",
     category: "Web Application",
     description:
@@ -44,7 +55,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 5,
+    id: 6,
     title: "Meme's Small Chops",
     category: "Web Application",
     description:
@@ -55,7 +66,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 6,
+    id: 7,
     title: "Pinnacle Estates",
     category: "Web Application",
     description:
@@ -66,7 +77,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 7,
+    id: 8,
     title: "Travel Ease",
     category: "Web Application",
     description:
@@ -77,7 +88,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 8,
+    id: 9,
     title: "Obehii Energy",
     category: "Web Application",
     description:
@@ -88,7 +99,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 9,
+    id: 10,
     title: "Angel Mira Consult",
     category: "Web Application",
     description:
@@ -99,7 +110,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 10,
+    id: 11,
     title: "Piano Project",
     category: "Interactive App",
     description:
@@ -110,7 +121,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 11,
+    id: 12,
     title: "Digital Clock",
     category: "JavaScript App",
     description:
