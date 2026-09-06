@@ -23,7 +23,7 @@ function AboutSection() {
           About <span className="text-emerald-400">Me</span> & Skills
         </h2>
         <p className="text-slate-400 max-w-2xl text-base leading-relaxed">
-          I'm a dedicated Frontend Developer focused on building clean, performant, and responsive web applications.
+          I am a dedicated Frontend Developer passionate about building clean, performant, and responsive web applications. I specialize in React, modern JavaScript, and intuitive user interfaces that solve real-world problems—ranging from inventory and logistics dashboards to interactive service platforms.
         </p>
       </div>
 
