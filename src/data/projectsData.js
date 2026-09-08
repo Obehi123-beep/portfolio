@@ -1,28 +1,17 @@
 const projects = [
   {
     id: 1,
-    title: "NB Intelligence Dashboard",
-    category: "React Dashboard",
+    title: "MindFlow",
+    category: "React App",
     description:
-      "Interactive inventory and distribution dashboard for monitoring product stock, recording sales and restocks, filtering inventory, and viewing business insights.",
-    techStack: ["React", "JavaScript", "CSS3", "Recharts", "Vite"],
-    liveUrl: "https://nb-intelligence-dashboard.vercel.app/",
-    githubUrl: "https://github.com/Obehi123-beep/nb-intelligence-dashboard",
+      "Personal productivity dashboard built with React and Vite featuring task management, note-taking, workspace organization, and a local deterministic AI assistant handler.",
+    techStack: ["React", "Vite", "JavaScript", "CSS", "LocalStorage"],
+    liveUrl: "https://mindflow-app-olive.vercel.app/",
+    githubUrl: "https://github.com/Obehi123-beep/mindflow",
     featured: true,
   },
   {
     id: 2,
-    title: "Su's Laundry",
-    category: "React App",
-    description:
-      "Responsive laundry service platform featuring service listings, pricing information, interactive components, and a mobile-friendly interface.",
-    techStack: ["React", "Tailwind CSS", "Vite"],
-    liveUrl: "https://su-s-laundry.vercel.app/",
-    githubUrl: "https://github.com/Obehi123-beep/su-s-laundry",
-    featured: true,
-  },
-  {
-    id: 3,
     title: "LogiTrack",
     category: "React App",
     description:
@@ -33,18 +22,18 @@ const projects = [
     featured: true,
   },
   {
-    id: 4,
-    title: "JobTrack",
-    category: "React App",
+    id: 3,
+    title: "NB Intelligence Dashboard",
+    category: "React Dashboard",
     description:
-      "Responsive React job application tracker featuring modular components, full CRUD operations, real-time filtering, analytics, and persistent state via browser localStorage.",
-    techStack: ["React", "Vite", "CSS Modules", "LocalStorage"],
-    liveUrl: "https://job-application-tracker-green-eight.vercel.app/",
-    githubUrl: "https://github.com/Obehi123-beep/job-application-tracker",
+      "Interactive inventory and distribution dashboard for monitoring product stock, recording sales and restocks, filtering inventory, and viewing business insights.",
+    techStack: ["React", "JavaScript", "CSS3", "Recharts", "Vite"],
+    liveUrl: "https://nb-intelligence-dashboard.vercel.app/",
+    githubUrl: "https://github.com/Obehi123-beep/nb-intelligence-dashboard",
     featured: true,
   },
   {
-    id: 5,
+    id: 4,
     title: "HomeFinder",
     category: "React App",
     description:
@@ -55,7 +44,40 @@ const projects = [
     featured: true,
   },
   {
+    id: 5,
+    title: "Su's Laundry",
+    category: "React App",
+    description:
+      "Responsive laundry service platform featuring service listings, pricing information, interactive components, and a mobile-friendly interface.",
+    techStack: ["React", "Tailwind CSS", "Vite"],
+    liveUrl: "https://su-s-laundry.vercel.app/",
+    githubUrl: "https://github.com/Obehi123-beep/su-s-laundry",
+    featured: true,
+  },
+  {
     id: 6,
+    title: "Customer Support Dashboard",
+    category: "React App",
+    description:
+      "Interactive customer support dashboard designed to manage user tickets, response metrics, and query logs efficiently.",
+    techStack: ["React", "Vite", "JavaScript", "CSS"],
+    liveUrl: "#",
+    githubUrl: "https://github.com/Obehi123-beep/mindflow",
+    featured: true,
+  },
+  {
+    id: 7,
+    title: "JobTrack",
+    category: "React App",
+    description:
+      "Responsive React job application tracker featuring modular components, full CRUD operations, real-time filtering, analytics, and persistent state via browser localStorage.",
+    techStack: ["React", "Vite", "CSS Modules", "LocalStorage"],
+    liveUrl: "https://job-application-tracker-green-eight.vercel.app/",
+    githubUrl: "https://github.com/Obehi123-beep/job-application-tracker",
+    featured: true,
+  },
+  {
+    id: 8,
     title: "Currency & Crypto Converter",
     category: "React App",
     description:
@@ -66,7 +88,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 7,
+    id: 9,
     title: "BuildForge",
     category: "Web Application",
     description:
@@ -74,10 +96,10 @@ const projects = [
     techStack: ["JavaScript", "HTML5", "CSS3"],
     liveUrl: "https://buildforgeproject.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/Buildforgeproject",
-    featured: true,
+    featured: false,
   },
   {
-    id: 8,
+    id: 10,
     title: "Meme's Small Chops",
     category: "Web Application",
     description:
@@ -85,10 +107,10 @@ const projects = [
     techStack: ["HTML5", "CSS3", "Bootstrap"],
     liveUrl: "https://memesmallchops.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/memesmall_chops",
-    featured: true,
+    featured: false,
   },
   {
-    id: 9,
+    id: 11,
     title: "Pinnacle Estates",
     category: "Web Application",
     description:
@@ -99,7 +121,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 10,
+    id: 12,
     title: "Travel Ease",
     category: "Web Application",
     description:
@@ -110,7 +132,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 11,
+    id: 13,
     title: "Obehii Energy",
     category: "Web Application",
     description:
@@ -121,7 +143,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 12,
+    id: 14,
     title: "Angel Mira Consult",
     category: "Web Application",
     description:
@@ -132,7 +154,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 13,
+    id: 15,
     title: "Piano Project",
     category: "Interactive App",
     description:
@@ -143,7 +165,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 14,
+    id: 16,
     title: "Digital Clock",
     category: "JavaScript App",
     description:
