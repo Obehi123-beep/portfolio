@@ -72,7 +72,7 @@ const projects = [
     description:
       "Interactive customer support dashboard designed to manage user tickets, response metrics, and query logs efficiently.",
     techStack: ["React", "Vite", "JavaScript", "CSS"],
-    liveUrl: "#",
+    liveUrl: "https://customer-support-dashboard-brown.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/mindflow",
     featured: true,
   },
@@ -122,39 +122,17 @@ const projects = [
   },
   {
     id: 12,
-    title: "Pinnacle Estates",
-    category: "Web Application",
-    description:
-      "Real estate agency website featuring property listings, agent information, property detail pages, navigation, and responsive layouts.",
-    techStack: ["Bootstrap", "JavaScript", "HTML5"],
-    liveUrl: "#",
-    githubUrl: "https://github.com/Obehi123-beep/Pinacle_estate",
-    featured: false,
-  },
-  {
-    id: 13,
-    title: "Travel Ease",
-    category: "Web Application",
-    description:
-      "Visa and travel services platform designed to present application information, travel services, requirements, and client support resources.",
-    techStack: ["HTML5", "CSS3", "Bootstrap"],
-    liveUrl: "#",
-    githubUrl: "https://github.com/Obehi123-beep/Travel_ease",
-    featured: false,
-  },
-  {
-    id: 14,
     title: "Obehii Energy",
     category: "Web Application",
     description:
       "Responsive corporate website for an energy company showcasing service offerings, industry solutions, company information, and statistics.",
     techStack: ["HTML5", "CSS3", "Bootstrap"],
-    liveUrl: "#",
+    liveUrl: "https://obehi-energy-9mc1.vercel.app/",
     githubUrl: "https://github.com/Obehi123-beep/Obehi_energy",
     featured: false,
   },
   {
-    id: 15,
+    id: 13,
     title: "Angel Mira Consult",
     category: "Web Application",
     description:
@@ -165,7 +143,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 16,
+    id: 14,
     title: "Piano Project",
     category: "Interactive App",
     description:
@@ -176,7 +154,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 17,
+    id: 15,
     title: "Digital Clock",
     category: "JavaScript App",
     description:
