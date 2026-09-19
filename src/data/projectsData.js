@@ -92,7 +92,7 @@ const projects = [
       "Interactive customer support dashboard designed to manage user tickets, response metrics, and query logs efficiently.",
     techStack: ["React", "Vite", "JavaScript", "CSS"],
     liveUrl: "https://customer-support-dashboard-brown.vercel.app/",
-    githubUrl: "https://github.com/Obehi123-beep/mindflow",
+    githubUrl: "https://github.com/Obehi123-beep/customer-support-dashboard",
     featured: true,
   },
   {
