@@ -1,6 +1,17 @@
 const projects = [
   {
     id: 1,
+    title: "Expert Listing Search Widget",
+    category: "React App",
+    description:
+      "A lightweight, high-performance typeahead and autocomplete search component built for Lagos real estate discovery, featuring real-time filtering, keyboard navigation, and custom portal branding.",
+    techStack: ["React", "Vite", "JavaScript", "CSS"],
+    liveUrl: "https://expert-search-widget.vercel.app/",
+    githubUrl: "https://github.com/Obehi123-beep/expert-search-widget",
+    featured: true,
+  },
+  {
+    id: 2,
     title: "Mira Studio",
     category: "React E-commerce",
     description:
@@ -19,7 +30,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 2,
+    id: 3,
     title: "Vaulta",
     category: "React App",
     description:
@@ -30,7 +41,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 3,
+    id: 4,
     title: "MindFlow",
     category: "React App",
     description:
@@ -41,7 +52,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 4,
+    id: 5,
     title: "LogiTrack",
     category: "React App",
     description:
@@ -52,7 +63,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 5,
+    id: 6,
     title: "NB Intelligence Dashboard",
     category: "React Dashboard",
     description:
@@ -63,7 +74,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 6,
+    id: 7,
     title: "HomeFinder",
     category: "React App",
     description:
@@ -74,7 +85,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 7,
+    id: 8,
     title: "Su's Laundry",
     category: "React App",
     description:
@@ -85,7 +96,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 8,
+    id: 9,
     title: "Customer Support Dashboard",
     category: "React App",
     description:
@@ -96,7 +107,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 9,
+    id: 10,
     title: "JobTrack",
     category: "React App",
     description:
@@ -107,7 +118,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 10,
+    id: 11,
     title: "Currency & Crypto Converter",
     category: "React App",
     description:
@@ -118,7 +129,7 @@ const projects = [
     featured: true,
   },
   {
-    id: 11,
+    id: 12,
     title: "BuildForge",
     category: "Web Application",
     description:
@@ -129,7 +140,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 12,
+    id: 13,
     title: "Meme's Small Chops",
     category: "Web Application",
     description:
@@ -140,7 +151,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 13,
+    id: 14,
     title: "Obehii Energy",
     category: "Web Application",
     description:
@@ -151,7 +162,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 14,
+    id: 15,
     title: "Angel Mira Consult",
     category: "Web Application",
     description:
@@ -162,7 +173,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 15,
+    id: 16,
     title: "Piano Project",
     category: "Interactive App",
     description:
@@ -173,7 +184,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 16,
+    id: 17,
     title: "Digital Clock",
     category: "JavaScript App",
     description:
